@@ -1,0 +1,10 @@
+[data-md-color-scheme="instijl"] {
+  --md-primary-fg-color:        #f7941e;
+  --md-primary-fg-color--light: #f7941e;
+  --md-primary-fg-color--dark:  #da841e;
+
+  --md-accent-fg-color: #f7941e;
+  --md-accent-fg-color--transparent: #ff91001a;
+  --md-accent-bg-color: #000000de;
+  --md-accent-bg-color--light: #0000008a
+}
